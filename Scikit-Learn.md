@@ -50,13 +50,5 @@
 <br>
 
 
-* 출처: [데이터 사이언스 스쿨](https://datascienceschool.net/view-notebook/ff4b5d491cc34f94aea04baca86fbef8/)
-
-
-
-
-
-
-
-
+출처: [데이터 사이언스 스쿨](https://datascienceschool.net/view-notebook/ff4b5d491cc34f94aea04baca86fbef8/)
 
