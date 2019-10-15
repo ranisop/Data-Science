@@ -47,7 +47,7 @@
 - `GridSearchCV` 명령에는 `n_jobs`라는 인수가 있다. 디폴트 값은 1인데 이 값을 증가시키면 내부적으로 멀티 프로세스를 사용하여 그리드서치를 수행한다. 만약 CPU 코어의 수가 충분하다면 `n_jobs`를 늘릴수록 속도가 증가한다.
 
 
-
+* 출처: [데이터 사이언스 스쿨](https://datascienceschool.net/view-notebook/ff4b5d491cc34f94aea04baca86fbef8/)
 
 
 
